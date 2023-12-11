@@ -1,0 +1,3 @@
+/Users/german/Library/CloudStorage/Dropbox/Projects/CV_Cpp_ObjDetection_YOLOv5/CMakeFiles/Cpp_YOLOv5.dir
+/Users/german/Library/CloudStorage/Dropbox/Projects/CV_Cpp_ObjDetection_YOLOv5/CMakeFiles/edit_cache.dir
+/Users/german/Library/CloudStorage/Dropbox/Projects/CV_Cpp_ObjDetection_YOLOv5/CMakeFiles/rebuild_cache.dir
